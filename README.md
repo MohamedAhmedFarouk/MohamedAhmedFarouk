@@ -29,4 +29,4 @@ AI agents, workflow automation, applied machine learning (developing)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-farouk-b0863743/) | [GitHub](https://github.com/MAFaroukGit)
+[LinkedIn](https://www.linkedin.com/in/mohamed-farouk-b0863743/) | [GitHub](https://github.com/MohamedAhmedFarouk)
