@@ -17,7 +17,7 @@
 
 I combine professional experience in **petroleum geoscience, industrial construction, business development, and investment analysis** with hands-on work in **software development, relational databases, business intelligence, and automation**.
 
-My focus is turning domain knowledge into useful applications: from **Egyptian gold-market analytics** to **facility-management operations**, **geoscience data workflows**, and **AI-supported business processes**.
+My focus is turning domain knowledge into useful applications: from **geoscience data workflows**, **Egyptian gold-market analytics** to **facility-management operations**,  and **AI-supported business processes**.
 
 I have worked on exploration and subsurface interpretation across Egyptian basins and managed construction and industrial projects, including work associated with automotive production facilities. Through Elhamd for Contracting and Supplies, I have also worked across project delivery, procurement, cost control, client coordination, and business operations.
 
